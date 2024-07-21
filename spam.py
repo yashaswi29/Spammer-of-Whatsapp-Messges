@@ -5,6 +5,7 @@ import pyautogui
 import webbrowser as wb
 import time
 
+//hello hello hello
 
 wb.open("https://web.whatsapp.com")
 time.sleep(10)
